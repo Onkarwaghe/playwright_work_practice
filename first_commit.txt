@@ -3,3 +3,4 @@ my first experience with git
 new line added
 
 this line is from my branch2
+this line is from my main branch
